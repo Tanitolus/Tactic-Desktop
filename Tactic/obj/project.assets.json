@@ -24022,24 +24022,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Izza\\.nuget\\packages\\": {},
+    "C:\\Users\\shoai\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Izza\\Source\\Repos\\Tactic-Desktop\\Tactic\\Tactic.csproj",
+      "projectUniqueName": "C:\\Users\\shoai\\OneDrive\\Documents\\GitHub\\Tactic-Desktop\\Tactic\\Tactic.csproj",
       "projectName": "Tactic",
-      "projectPath": "C:\\Users\\Izza\\Source\\Repos\\Tactic-Desktop\\Tactic\\Tactic.csproj",
-      "packagesPath": "C:\\Users\\Izza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Izza\\Source\\Repos\\Tactic-Desktop\\Tactic\\obj\\",
+      "projectPath": "C:\\Users\\shoai\\OneDrive\\Documents\\GitHub\\Tactic-Desktop\\Tactic\\Tactic.csproj",
+      "packagesPath": "C:\\Users\\shoai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shoai\\OneDrive\\Documents\\GitHub\\Tactic-Desktop\\Tactic\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Izza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shoai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

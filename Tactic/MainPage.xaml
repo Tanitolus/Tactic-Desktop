@@ -11,7 +11,7 @@
 
             <Image
                 Source="dotnet_bot.png"
-                SemanticProperties.Description="Hello Shoaib you ar eepic!!!!"
+                SemanticProperties.Description="izzapro!!!!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 

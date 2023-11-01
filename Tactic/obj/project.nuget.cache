@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6oDsLJD0SiuYdMOi8YSrgxllFs91Gmo3WbBIeJA/A+M42udgrL8afri7e9/qmD2COeSB1HbMzYgA6RHsJ0FCHQ==",
+  "dgSpecHash": "Td2jCkd8KYRhay/T5Lhsv7zy7sUbaj/gVIc4etxqir1n0JwOrQ47oy0IVJjR+o5OT9vj8eiI/T0jz5hQyb9wYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Izza\\source\\repos\\Tactic\\Tactic\\Tactic.csproj",
+  "projectFilePath": "C:\\Users\\Izza\\source\\repos\\Tactic-Desktop\\Tactic\\Tactic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Izza\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Izza\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

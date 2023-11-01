@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Izza\\source\\repos\\Tactic\\Tactic\\Tactic.csproj": {}
+    "C:\\Users\\Izza\\source\\repos\\Tactic-Desktop\\Tactic\\Tactic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Izza\\source\\repos\\Tactic\\Tactic\\Tactic.csproj": {
+    "C:\\Users\\Izza\\source\\repos\\Tactic-Desktop\\Tactic\\Tactic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Izza\\source\\repos\\Tactic\\Tactic\\Tactic.csproj",
+        "projectUniqueName": "C:\\Users\\Izza\\source\\repos\\Tactic-Desktop\\Tactic\\Tactic.csproj",
         "projectName": "Tactic",
-        "projectPath": "C:\\Users\\Izza\\source\\repos\\Tactic\\Tactic\\Tactic.csproj",
+        "projectPath": "C:\\Users\\Izza\\source\\repos\\Tactic-Desktop\\Tactic\\Tactic.csproj",
         "packagesPath": "C:\\Users\\Izza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Izza\\source\\repos\\Tactic\\Tactic\\obj\\",
+        "outputPath": "C:\\Users\\Izza\\source\\repos\\Tactic-Desktop\\Tactic\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
